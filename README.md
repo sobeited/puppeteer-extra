@@ -1,3 +1,8 @@
+最完美方案！模拟浏览器如何正确隐藏特征
+https://mp.weixin.qq.com/s/Bge-_yiatSq4CQq7fRvjdQ
+stealth.min.js
+/packages/extract-stealth-evasions/
+
 # puppeteer-extra
 
 This is the monorepo for [`puppeteer-extra`](./packages/puppeteer-extra), a modular plugin framework for [`puppeteer`](https://github.com/GoogleChrome/puppeteer). :-)
